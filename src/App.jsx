@@ -1,7 +1,7 @@
 import React from 'react';
-import NavBar from './components/NavBar';
-import CartWidget from './components/CartWidget';
-import ItemListContainer from './components/ItemListContainer';
+import NavBar from './src/components/NavBar';
+import CartWidget from './src/components/CartWidget';
+import ItemListContainer from './src/components/ItemListContainer';
 
 function App() {
   return (
